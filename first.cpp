@@ -12,5 +12,6 @@ int main()
     }
     else{
         cout<<"bye git";
+        cout<<"go from git";
     }
 }
