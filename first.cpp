@@ -3,5 +3,14 @@ using namespace std;
 
 int main()
 {
-    cout<<"hello git";
+    int n;
+    cin>>n;
+
+    if(n==1)
+    {
+        cout<<"hello git";
+    }
+    else{
+        cout<<"bye git";
+    }
 }
