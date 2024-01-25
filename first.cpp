@@ -12,7 +12,6 @@ int main()
     }
     else{
         cout<<"bye git";
-        cout<<"leave git";
-        cout<<"go from here";
+        cout<<"TATA";
     }
 }
